@@ -1,0 +1,6 @@
+# Copy this to your ~/.config directory and rename to praw.ini (or just rename)
+
+[DEFAULT]
+user = 
+pswd = 
+log_requests = 0
