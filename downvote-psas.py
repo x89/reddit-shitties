@@ -1,4 +1,4 @@
-# Every single "PSA:" is a joke and deserves to be buiried.
+# Every single "PSA:" is a joke and deserves to be buried.
 # Works well with the Reddit option to "hide down-voted submissions"
 
 from praw import Reddit
